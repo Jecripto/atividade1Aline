@@ -1,0 +1,14 @@
+																																			Tipos de Dados
+																																			
+Valores Primitivos - São considerados valores primitivos aqueles que possuem valores imutáveis, exceto o "object".
+
+Tipo Bolean - É uma das entidades que possuem apenas dois valores:True e False como opção de escolha que por consequência define se o parâmetro existe.
+Sintaxe: new Boolean([value])
+
+Tipo Null - 
+Tipo Undefined
+Tipo Number
+Tipo Biglnt
+Tipo Strig
+Tipo Symbol
+Objects
