@@ -2,12 +2,17 @@
 																																			
 Valores Primitivos - São considerados valores primitivos aqueles que possuem valores imutáveis, exceto o "object".
 
-Tipo Bolean - É uma das entidades que possuem apenas dois valores:True e False como opção de escolha que por consequência define se o parâmetro existe.
+Tipo Boolean - É uma das entidades que possuem apenas dois valores: True e False (verdadeiro ou falso) como opção de escolha ao programador e ao sistema, 
+que basicamente faz o primeiro parâmetro se converte para um valor boolean se for necessário, por consequência define se o parâmetro existe ou por exemplo se ele deve executar algum programa ou código específico já predefinido.
 Sintaxe: new Boolean([value])
 
-Tipo Null - 
-Tipo Undefined
-Tipo Number
+Tipo Null - É um tipo de valor que representa algo nulo,"vazio" ou inexistente.
+Sintaxe: null
+
+Tipo Undefined - É atrbuído para variáveis que não possui nenhum valor, sendo assim indefinido (undefined).
+Sintaxe: undefined
+
+Tipo Number - é um valor no formato binário de 64 Bits que é capaz de armazenar números de pontos flutuantes tanto positivo quanto negativo
 Tipo Biglnt
 Tipo Strig
 Tipo Symbol
